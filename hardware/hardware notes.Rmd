@@ -1,0 +1,12 @@
+---
+title: "Hardware used in the biologger project"
+output: html_notebook
+---
+
+## Data-loggging shield
+
+Adafruit 1141
+https://www.adafruit.com/product/1141
+
+
+
